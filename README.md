@@ -1,4 +1,4 @@
-![Header Image](https://source.unsplash.com/1600x400/?technology,data)
+
 
 # **Hi there, I'm Maggie!** 👋  
 
@@ -30,12 +30,12 @@ I am a dedicated **Data Analyst** with expertise in **C, Java, Python, SQL, Mong
 
 💬 **NLP Chatbots & Talking Robots** – Built interactive AI-driven systems for real-time communication using **Google Dialogflow**.
 
-🔗 **More projects:** [Check my repositories!](https://github.com/your-github-username)
+🔗 **More projects:** [Check my repositories!](https://github.com/MeghanaPatnala)
 
 
 ## 🚀 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/meghanapatnala)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeghanaPatnala)
 
 💡 *I’m always open to collaboration on interesting data projects and discussions on analytics and machine learning!* ✨
